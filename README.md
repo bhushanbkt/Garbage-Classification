@@ -1,4 +1,5 @@
 # Garbage Classification Project
+![Screenshot (231)](https://github.com/bhushanbkt/Garbage-Classification/assets/91175596/f714ceb1-4194-429c-a33a-d79c772a4080)
 
 ## Overview
 This project aims to classify garbage into different categories using deep learning techniques. The model is trained on a dataset containing images of various types of garbage, and the classification results are displayed through a Streamlit web application.
@@ -24,3 +25,9 @@ To run the Streamlit app locally, follow these steps:
    git clone https://github.com/your-username/garbage-classification.git
    cd garbage-classification
 
+Contact
+For any questions or inquiries, please contact bhushant731@gmail.com.
+
+Feel free to explore the code, experiment with the pre-trained model, and share your feedback. If you have any questions or suggestions, please open an issue or reach out.
+
+Happy coding!
