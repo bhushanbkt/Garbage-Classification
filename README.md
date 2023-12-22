@@ -1,1 +1,26 @@
-# Garbage-Classification
+# Garbage Classification Project
+
+## Overview
+This project aims to classify garbage into different categories using deep learning techniques. The model is trained on a dataset containing images of various types of garbage, and the classification results are displayed through a Streamlit web application.
+
+## Features
+- Image Classification: Upload an image to get real-time predictions on whether the object is recyclable or considered as trash.
+- Video Classification: Upload a video to see real-time classification results for each frame.
+
+## Model
+The classification model is built using a Convolutional Neural Network (CNN) architecture. Various pre-trained models such as VGG16, VGG19, and ResNet have been experimented with, and the best-performing model has been integrated into the Streamlit app.
+
+## Technologies Used
+- Python
+- TensorFlow and Keras for deep learning
+- Streamlit for web application
+- OpenCV for image and video processing
+
+## Getting Started
+To run the Streamlit app locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/garbage-classification.git
+   cd garbage-classification
+
